@@ -1,0 +1,6 @@
+D:\VSITE\LAB2\KvadratnaJednadzba2\bin\Debug\KvadratnaJednadzba2.exe.config
+D:\VSITE\LAB2\KvadratnaJednadzba2\bin\Debug\KvadratnaJednadzba2.exe
+D:\VSITE\LAB2\KvadratnaJednadzba2\bin\Debug\KvadratnaJednadzba2.pdb
+D:\VSITE\LAB2\KvadratnaJednadzba2\obj\Debug\KvadratnaJednadzba2.csproj.CoreCompileInputs.cache
+D:\VSITE\LAB2\KvadratnaJednadzba2\obj\Debug\KvadratnaJednadzba2.exe
+D:\VSITE\LAB2\KvadratnaJednadzba2\obj\Debug\KvadratnaJednadzba2.pdb
